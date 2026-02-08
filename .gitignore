@@ -15,3 +15,6 @@ notebooks/catboost_info/
 # IDE specific
 .vscode/
 .idea/
+
+#project documentation files
+github_projects.md

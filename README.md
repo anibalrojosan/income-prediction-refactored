@@ -3,7 +3,7 @@
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 [![Software Engineering](https://img.shields.io/badge/Engineering-Refactored-green.svg)](#)
 
-This project aims to apply the best practices of software engineering to a data science income prediction project.
+This project aims to apply the best practices of software engineering to a data science income prediction project.MW
 
 ## 📋 Table of Contents
 - [🎯 Project purpose](#project-purpose)
@@ -36,7 +36,7 @@ Most Data Science projects start (and unfortunately end) in a single, monolithic
 
 To solve the challenge, the project was re-engineered into a decoupled structure. The notebooks now act as thin "analysis layers" that import heavy-lifting logic from the core library.
 
-![New Architecture](doc/new_arquitecture.png)
+![New Architecture](docs/new_arquitecture.png)
 
 ## Research vs. Production: The Value of Refactoring
 
